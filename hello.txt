@@ -1,2 +1,3 @@
 Hello, Git!
 This is a new feature
+This is from the practice git folder
