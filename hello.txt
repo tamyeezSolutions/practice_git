@@ -1,4 +1,8 @@
 Hello, Git!
+<<<<<<< HEAD
 This is a new feature
 This is from the practice git folder
 gdgfdgdfgjlkdgdfg
+=======
+Hello again
+>>>>>>> new_branch
